@@ -1,0 +1,15 @@
+{
+  "name": "Plunk.Identity",
+  "version": "0.9.1",
+  "description": "Asp.Net Identity implementation for the Plunk API",
+  "main": "RevStack.Plunk.sln",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RevStack/Plunk.Identity.git"
+  },
+  "author": "David Sheets",
+  "license": "MIT"
+}
